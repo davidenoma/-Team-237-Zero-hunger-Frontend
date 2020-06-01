@@ -1,24 +1,23 @@
 # zero-hunger
+Laravel and Vue with web pack so 
 
 ## Project setup
+You need php version greater that 7
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### This allows us to run in dev envirionment 
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm run watch
 ```
 
-### Lints and fixes files
+### Run the laravel backend
 ```
-npm run lint
+php artisan serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+localhost:8000
+```
