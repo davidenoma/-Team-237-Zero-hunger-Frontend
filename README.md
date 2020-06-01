@@ -1,9 +1,10 @@
 # zero-hunger
 Laravel and Vue with web pack so 
 
-## Project setup
-You need php version greater that 7
+## Requirements
+You need php version greater than 7 and npm 
 
+##Install Dependencies for js
 ```
 npm install
 ```
